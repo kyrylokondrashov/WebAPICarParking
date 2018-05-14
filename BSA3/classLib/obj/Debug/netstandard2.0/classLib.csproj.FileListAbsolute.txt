@@ -1,0 +1,9 @@
+/Users/kirill/Downloads/BSA3/classLib/bin/Debug/netstandard2.0/classLib.deps.json
+/Users/kirill/Downloads/BSA3/classLib/bin/Debug/netstandard2.0/classLib.dll
+/Users/kirill/Downloads/BSA3/classLib/bin/Debug/netstandard2.0/classLib.pdb
+/Users/kirill/Downloads/BSA3/classLib/obj/Debug/netstandard2.0/classLib.csproj.CoreCompileInputs.cache
+/Users/kirill/Downloads/BSA3/classLib/obj/Debug/netstandard2.0/classLib.AssemblyInfoInputs.cache
+/Users/kirill/Downloads/BSA3/classLib/obj/Debug/netstandard2.0/classLib.AssemblyInfo.cs
+/Users/kirill/Downloads/BSA3/classLib/obj/Debug/netstandard2.0/classLib.dll
+/Users/kirill/Downloads/BSA3/classLib/obj/Debug/netstandard2.0/classLib.pdb
+/Users/kirill/Downloads/BSA3/classLib/obj/Debug/netstandard2.0/classLib.csprojAssemblyReference.cache

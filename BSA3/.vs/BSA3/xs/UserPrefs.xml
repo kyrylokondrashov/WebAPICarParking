@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{4C26BBAF-A9CC-47E2-B7A0-E38281C1532F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/Controllers/ParkingController.cs">
+    <Files>
+      <File FileName="WebAPI/Controllers/ParkingController.cs" Line="132" Column="1" />
+      <File FileName="WebAPI/Startup.cs" Line="1" Column="1" />
+      <File FileName="WebAPI/Controllers/ValuesController.cs" Line="1" Column="1" />
+      <File FileName="classLib/Parking.cs" Line="128" Column="139" />
+      <File FileName="classLib/Car.cs" Line="1" Column="1" />
+      <File FileName="classLib/Settings.cs" Line="81" Column="4" />
+      <File FileName="classLib/Trasnactions.cs" Line="1" Column="1" />
+      <File FileName="classLib/Class1.cs" Line="1" Column="1" />
+      <File FileName="WebAPI/Program.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BSA3" expanded="True">
+            <Node name="classLib" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WebAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="ParkingController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
